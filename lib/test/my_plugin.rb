@@ -1,0 +1,3 @@
+class MyPlugin < Base
+
+end
